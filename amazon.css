@@ -345,10 +345,11 @@ ul {
 
 /* try */
 
-.sec{
+/* .sec{
     background-color:#e2e7e6;
     height: 450px;
     display: flex;
+    border:1px solid red;
 }
 
 .bo{
@@ -357,10 +358,12 @@ ul {
     width: 23%;
     margin-left:20px;
     margin-top:20px;
+    border:1px solid red;
 }
 
 .con{
     margin-top:20px;
+      border:1px solid red;
 
 }
 
@@ -403,6 +406,6 @@ ul {
 
 .con p{
     margin-left:10px;
-}
+} */
 
 
